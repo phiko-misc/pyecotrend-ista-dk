@@ -1,7 +1,7 @@
 site_name: "Python Ecotrend Ista Api Documentation"
-repo_url: https://github.com/Ludy87/pyecotrend-ista/
-repo_name: Ludy87/pyecotrend-ista
-site_author: Ludy87
+repo_url: https://github.com/phiko-misc/pyecotrend-ista-dk/
+repo_name: phiko-misc/pyecotrend-ista-dk
+site_author: phiko-misc
 
 nav:
   - Home: index.md
@@ -28,7 +28,7 @@ plugins:
       enable_creation_date: true
       fallback_to_build_date: true
   - git-committers:
-      repository: Ludy87/pyecotrend-ista
+      repository: phiko-misc/pyecotrend-ista-dk
       branch: main
       token: !ENV ["GITHUB_TOKEN"]
       exclude:
@@ -154,7 +154,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - mdx_gh_links:
-      user: Ludy87
+      user: phiko-misc
       repo: pyecotrend-ista
   - mkdocs-click
 
