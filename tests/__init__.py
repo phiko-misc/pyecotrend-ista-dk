@@ -1,1 +1,1 @@
-"""Tests for PyEcotrendIsta."""
+"""Tests for the DK EcoTrend client."""

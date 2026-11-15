@@ -5,8 +5,7 @@ site_author: phiko-misc
 
 nav:
   - Home: index.md
-  - PyEcotrendIsta: pyecotrend_ista.md
-  - login_helper.md
+  - PyEcotrendIstaDK: pyecotrend_ista.md
   - types.md
   - exception_classes.md
 
